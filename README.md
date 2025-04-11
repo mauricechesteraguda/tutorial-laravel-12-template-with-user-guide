@@ -149,5 +149,5 @@ This project is open-source and available under the [MIT license](LICENSE).
 For any questions or feedback, reach out via:
 
 - GitHub: [@mauricechesteraguda](https://github.com/mauricechesteraguda)
-- Linkedin: [your.email@example.com](https://www.linkedin.com/in/maurice-chester-aguda-09b93981/)
+- Linkedin: [https://www.linkedin.com/in/maurice-chester-aguda-09b93981/](https://www.linkedin.com/in/maurice-chester-aguda-09b93981/)
 
