@@ -41,8 +41,8 @@ A **Laravel 12 starter application** that includes user authentication, role and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/laravel-template.git
-   cd laravel-template
+   git clone https://github.com/mauricechesteraguda/tutorial-laravel-12-template-with-user-guide.git
+   cd tutorial-laravel-12-template-with-user-guide
    ```
 
 2. **Install dependencies**
@@ -148,6 +148,6 @@ This project is open-source and available under the [MIT license](LICENSE).
 
 For any questions or feedback, reach out via:
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@mauricechesteraguda](https://github.com/mauricechesteraguda)
 - Email: your.email@example.com
 
